@@ -8,11 +8,11 @@ from datetime import datetime
 
 # ================= 📦 CONFIG =================
 # 🔥 طباعة تقرير
-REPORT_EVERY = 100
+REPORT_EVERY = 10
 # 🔥 رفع GitHub
-PUSH_EVERY = 10000
+PUSH_EVERY = 100
 # 🔥 حفظ backup
-BACKUP_EVERY = 50000
+BACKUP_EVERY = 500
 # 🔥 عدد مرات تطبيق الفلتر
 FILTER_REPEAT = 35000
 # عدد دفعات FFmpeg داخل كل مرحلة
