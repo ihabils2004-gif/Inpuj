@@ -14,7 +14,7 @@ PUSH_EVERY = 100
 # 🔥 حفظ backup
 BACKUP_EVERY = 500
 # 🔥 عدد مرات تطبيق الفلتر
-FILTER_REPEAT = 70000
+FILTER_REPEAT = 35000
 # عدد دفعات FFmpeg داخل كل مرحلة
 BATCH_REPEAT = 100
 # 🔥 ffmpeg المعدل
